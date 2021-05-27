@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="title_activity_create_todo">CreateTodo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Add Task</string>
+    <string name="second_fragment_label">All Tasks</string>
+    <string name="third_fragment_label">Comments</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="noComment">No Comments</string>
+    <string name="noTask">No Tasks</string>
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+
+    <string name="add_new_task">Add new task</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
